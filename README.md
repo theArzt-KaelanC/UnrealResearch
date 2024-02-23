@@ -1,4 +1,4 @@
-# UnrealResearch
+# Unreal Research
 
 1. [Unreal in 100 Seconds](https://www.youtube.com/watch?v=DXDe-2BC4cE)
     - General overview
