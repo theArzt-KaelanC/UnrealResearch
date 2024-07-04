@@ -23,3 +23,13 @@
     - In depth materials, landscaping, animations, and visual scripting.
 13. [All in one UE5 Master Blueprint course](https://www.udemy.com/course/unreal-engine-5-create-video-game-in-ue5-with-blueprint/)
     - Visual scripting in depth
+14. [Import Rigs & Animation](https://www.youtube.com/watch?v=L4OcpF7-YB0)
+    - Blender to Unreal
+15. [Unreal 5 Niagra VFX](https://www.youtube.com/watch?v=8k0vuDD_cE0)
+    - Sparks & basic inputs
+16. [Niagra Fluids Smoke Portal](https://www.youtube.com/watch?v=nOirmGz8YG4)
+17. [Desintegration Material](https://www.youtube.com/watch?v=79ZnSh6nJUo)
+18. [Niagra Character on Fire](https://www.youtube.com/watch?v=HFmmFngx14U)
+19. [Niagra Gas Emitter Explanation](https://dev.epicgames.com/community/learning/tutorials/qjrY/unreal-engine-niagara-fluids-exploring-the-3d-gas-emitter)
+20. [Caching Niagara FX](https://www.youtube.com/watch?v=RQuyRTRQg7s)
+21. [Niagara Caching Tutorial](https://www.youtube.com/watch?v=rVD1NMTvinI)
